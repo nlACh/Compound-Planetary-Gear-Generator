@@ -1,0 +1,14 @@
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\bin\Release\netcoreapp3.1\Compound_GEAR_GEN.exe
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\bin\Release\netcoreapp3.1\Compound_GEAR_GEN.deps.json
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\bin\Release\netcoreapp3.1\Compound_GEAR_GEN.runtimeconfig.json
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\bin\Release\netcoreapp3.1\Compound_GEAR_GEN.runtimeconfig.dev.json
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\bin\Release\netcoreapp3.1\Compound_GEAR_GEN.dll
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\bin\Release\netcoreapp3.1\Compound_GEAR_GEN.pdb
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\obj\Release\netcoreapp3.1\Compound_GEAR_GEN.csproj.AssemblyReference.cache
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\obj\Release\netcoreapp3.1\Compound_GEAR_GEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\obj\Release\netcoreapp3.1\Compound_GEAR_GEN.AssemblyInfoInputs.cache
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\obj\Release\netcoreapp3.1\Compound_GEAR_GEN.AssemblyInfo.cs
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\obj\Release\netcoreapp3.1\Compound_GEAR_GEN.csproj.CoreCompileInputs.cache
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\obj\Release\netcoreapp3.1\Compound_GEAR_GEN.dll
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\obj\Release\netcoreapp3.1\Compound_GEAR_GEN.pdb
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\obj\Release\netcoreapp3.1\Compound_GEAR_GEN.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j9klu47pQ5MhhpLLd3FzE65iTDZHU/Rl6sv4AU0zFvPcAW1/45TDhlKdJiTMuyzBwRjMRdt8W9Fa1BGpJ8jf9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nlpl9\\source\\repos\\Compound_GEAR_GEN\\Compound_GEAR_GEN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nlpl9\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.20\\microsoft.netcore.app.runtime.win-x86.3.1.20.nupkg.sha512",
+    "C:\\Users\\nlpl9\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.20\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.20.nupkg.sha512",
+    "C:\\Users\\nlpl9\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.20\\microsoft.aspnetcore.app.runtime.win-x86.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\bin\Release\netcoreapp3.1\publish\Compound_GEAR_GEN.exe
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\bin\Release\netcoreapp3.1\publish\Compound_GEAR_GEN.dll
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\bin\Release\netcoreapp3.1\publish\Compound_GEAR_GEN.deps.json
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\bin\Release\netcoreapp3.1\publish\Compound_GEAR_GEN.runtimeconfig.json
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\bin\Release\netcoreapp3.1\publish\Compound_GEAR_GEN.pdb

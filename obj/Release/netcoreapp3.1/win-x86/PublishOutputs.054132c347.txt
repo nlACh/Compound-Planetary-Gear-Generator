@@ -1,0 +1,2 @@
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\bin\Release\netcoreapp3.1\publish\Compound_GEAR_GEN.pdb
+C:\Users\nlpl9\source\repos\Compound_GEAR_GEN\bin\Release\netcoreapp3.1\publish\Compound_GEAR_GEN.exe
