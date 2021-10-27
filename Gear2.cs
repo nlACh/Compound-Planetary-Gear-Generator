@@ -72,6 +72,7 @@ namespace GEAR2
 		{
 			Console.WriteLine("SUN2 TEETH: {0}", st);
 			Console.WriteLine("PLANET2 TEETH: {0}", pt);
+			Console.WriteLine("RING2 TEETH: {0}", rt);
 			Console.WriteLine("NUMBER OF PLANETS: {0}", num_p);
 			Console.WriteLine("MODULE OF OUTPUT: {0}", module);
 		}

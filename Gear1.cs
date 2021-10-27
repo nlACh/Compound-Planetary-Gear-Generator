@@ -68,6 +68,7 @@ namespace GEAR1
         {
 			Console.WriteLine("SUN1 TEETH: {0}", st);
 			Console.WriteLine("PLANET1 TEETH: {0}", pt);
+			Console.WriteLine("RING1 TEET: {0}", rt);
 			Console.WriteLine("NUMBER OF PLANETS: {0}", num_p);
 		}
 	}

@@ -31,7 +31,7 @@ namespace Compound_GEAR_GEN
             //Console.WriteLine("GEAR1");
             g1 = new Gear1(mod1);
 
-            do
+            for (int i = 1, j = 0; i > 0 && j <= 5; i++)
             {
                 g1.create();
 
@@ -40,13 +40,17 @@ namespace Compound_GEAR_GEN
                 g2.create();
 
                 res = makeGearRatio(g1, g2);
-            } 
-            while (Math.Abs(ratio - res) >= 5.0);
-            Console.WriteLine("GEAR1");
-            g1.show();
-            Console.WriteLine("GEAR2");
-            g2.show();
-            Console.WriteLine("FINAL RATIO: {0}", res);
+                if (Math.Abs(res - ratio) <= 5.0 && (Math.Ceiling(res) == Math.Floor(res)))
+                {
+                    j++;
+                    Console.WriteLine("GEAR1");
+                    g1.show();
+                    Console.WriteLine("GEAR2");
+                    g2.show();
+                    Console.WriteLine("FINAL RATIO: {0}", res);
+                }
+            }
+            
             Console.WriteLine("Press any key to exit");
             Console.ReadKey();
 
